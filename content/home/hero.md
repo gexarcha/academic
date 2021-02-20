@@ -23,9 +23,3 @@ design:
     text_color_light: false
 hero_media: ""
 ---
-
-<!-- **Researhcer on Machine Learning, Theoretical Neuroscience and Artificial Intelligence** -->
-
-<!-- Build **Anything** with Widgets -->
-
-<!-- <span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span> -->
