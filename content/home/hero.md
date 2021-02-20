@@ -17,7 +17,7 @@ cta_alt:
   label: View Documentation
 design:
   background:
-    color: navy
+    color: ""
     image: /assets/media/bubbles-wide.jpg
     image_darken: 0
     text_color_light: false
