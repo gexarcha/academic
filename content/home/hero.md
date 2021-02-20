@@ -19,7 +19,7 @@ design:
   background:
     color: navy
     image: /assets/media/bubbles-wide.jpg
-    image_darken: 0.2
+    image_darken: 0
     text_color_light: false
 hero_media: ""
 ---
