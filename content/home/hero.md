@@ -18,7 +18,7 @@ cta_alt:
 design:
   background:
     color: ""
-    image: /assets/media/bubbles-wide.jpg
+    image: /bubbles-wide.jpg
     image_darken: 0
     text_color_light: false
 hero_media: ""
