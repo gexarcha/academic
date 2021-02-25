@@ -41,6 +41,9 @@ highlight = true
   focal_point = "Bottom"
 +++
 
+Download this post as a {{% staticref "files/positions/Intern at CAMMA.pdf" "newtab" %}} PDF file{{% /staticref %}}
+
+
 * **Keywords:** Scattering Transforms, Convolutional Neural Networks, Health Sciences
 * **Salary:** ~ 550 euros per month 
 * **Profile:** M2 student in CS/Math/Physics or a related field
