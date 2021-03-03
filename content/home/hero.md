@@ -23,4 +23,8 @@ design:
     text_color_light: false
 hero_media: ""
 ---
-Looking for [Interns](/post/Intern)
+Positions:
+
+\* [Interns](/post/Intern)
+
+\* [Post-doc](/post/post-doc)
