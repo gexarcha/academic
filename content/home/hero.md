@@ -23,7 +23,7 @@ design:
     text_color_light: true
 hero_media: ""
 ---
-Positions:
+<span style="color:red">Available Positions: </span>
 
 \* [Interns](/post/Intern)
 
