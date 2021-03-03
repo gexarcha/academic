@@ -24,7 +24,5 @@ design:
 hero_media: ""
 ---
 <span style="color:red">Available Positions: </span>
-
 * [Interns](/post/Intern)
-
 * [Post-doc](/post/post-doc)
