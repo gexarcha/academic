@@ -20,7 +20,7 @@ design:
     color: ""
     image: /bubbles-wide.jpg
     image_darken: 0
-    text_color_light: false
+    text_color_light: true
 hero_media: ""
 ---
 Positions:
