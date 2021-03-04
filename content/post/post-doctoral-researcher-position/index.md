@@ -12,7 +12,7 @@ image:
 ---
 # Post-Doc on Machine Learning for COVID-19 pandemic analysis 
 
-* Keywords: Machine Learning on Graphs, Geographic Information System, COVID-19
+* Keywords: Machine Learning on Graphs, Geographic Information Systems, COVID-19
 * Profile: Doctoral degree in ML for Graphs or a related topic
 * Institute: IHU Strasbourg
 * Location: Strasbourg, France
