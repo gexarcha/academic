@@ -23,6 +23,6 @@ We offer a post-doc position attached to the CAMMA team at IHU Strasbourg for mo
 
 An ideal applicant will have a strong background in Machine Learning with a particular emphasis on Graph based algorithms. Experience with Geographic Information Systems will also be highly considered.  Experience in the Python programming language with at least one of the popular ML libraries, e.g. Pytorch, TensorFlow. The successful candidate is expected to have high quality publications in leading journals in their field.
 
-Working conditions and remuneration are negotiable and will depend on the profile of the candidate. The project will be supervised by (Dr. Georgios Exarchakis)[https://exarchakis.net] in close collaboration with  Prof. Benoît Gallix, and (Prof. Nicolas Padoy)[http://camma.u-strasbg.fr/npadoy].
+Working conditions and remuneration are negotiable and will depend on the profile of the candidate. The project will be supervised by [Dr. Georgios Exarchakis](https://exarchakis.net) in close collaboration with  Prof. Benoît Gallix, and [Prof. Nicolas Padoy](http://camma.u-strasbg.fr/npadoy).
 
 For further information on the application please contact Dr Georgios Exarchakis at georgios.exarchakis@ihu-strasbourg.eu with “COVID-19 Post-Doc” as the email title. For applications, please provide your CV, copies of your academic degrees, and a cover letter detailing your interest in the position.
