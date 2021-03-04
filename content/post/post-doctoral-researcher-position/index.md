@@ -17,6 +17,7 @@ image:
 * Institute: IHU Strasbourg
 * Location: Strasbourg, France
 * Supervisor: Dr Georgios Exarchakis
+* Application Deadline: 04 April 2021
 
 We offer a post-doc position attached to the CAMMA team at IHU Strasbourg for motivated researchers interested in developing state of the art Machine Learning algorithms for monitoring the COVID-19 pandemic. The Institute provides a multi- disciplinary environment where clinicians collaborate with engineers to provide real-world medical solutions. The intended project considers managing geographic data, at a neighborhood level resolution, in Graph format to identify regions of interest in the COVID-19 spread patterns. An analysis of the dynamics of the spread will also be considered to provide insights on the evolution of the pandemic. The post-doc will be expected to perform data sanity checks, to design and apply a  bottom-up  Machine Learning analysis for the geographic structure of the pandemic, and to apply state-of-the-art Deep Learning algorithms for the analysis and prediction of the evolution of the pandemic.
 
