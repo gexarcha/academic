@@ -9,7 +9,7 @@ headless: true
 
 
 # Activate this widget? true/false
-active : false  
+active : true  
 
 
 
