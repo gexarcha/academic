@@ -25,4 +25,4 @@ hero_media: ""
 ---
 **Available Positions:**
 * [Interns](/post/Intern)
-<!--* [Post-doc](/post/post-doctoral-researcher-position)-->
+* [Post-doc](/post/post-doctoral-researcher-position)
