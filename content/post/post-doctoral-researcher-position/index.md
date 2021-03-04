@@ -3,7 +3,7 @@ title: Post-doctoral Researcher Position
 subtitle: Post-doctoral Researcher on ML on Graphs for COVID-19
 date: 2021-03-03T12:13:12.068Z
 summary: Post-doctoral Researcher for Machine Learning based analysis of COVID-19 data.
-draft: true
+draft: false
 featured: false
 image:
   filename: camma.png
