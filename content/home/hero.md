@@ -23,6 +23,8 @@ design:
     text_color_light: true
 hero_media: ""
 ---
+{{% callout note %}}
 **Available Positions:**
 * [Interns](/post/Intern)
 * [Post-doc](/post/post-doctoral-researcher-position)
+{{% /callout %}}
