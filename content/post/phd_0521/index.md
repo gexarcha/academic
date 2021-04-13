@@ -49,6 +49,7 @@ Download this post as a {{% staticref "files/positions/PhD at CAMMA.pdf" "newtab
 * **Institute:** IHU Strasbourg/University of Strasbourg
 * **Location:** Strasbourg, France
 * **Supervisor:** Dr Georgios Exarchakis
+* **Deadline:** The 10th of May 2021
 
 We offer an PhD position position attached to the [CAMMA team](http://camma.u-strasbg.fr/) at [IHU Strasbourg](https://www.ihu-strasbourg.eu/en)/[University of Strasbourg](https://unistra.fr) for a motivated student interested in contributing to the development of Machine Learning algorithms for use in Health Sciences. The Institute provides a multi-disciplinary environment where clinicians collaborate with engineers to provide real-world surgical solutions. 
 
