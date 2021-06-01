@@ -27,5 +27,4 @@ hero_media: ""
 **Available Positions:**
 
 * [Interns](/post/Intern)
-* [Post-doc](/post/post-doctoral-researcher-position)
   {{% /callout %}}
