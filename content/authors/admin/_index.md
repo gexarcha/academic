@@ -32,6 +32,8 @@ social:
 organizations:
   - name: Institute of Image-Guided Surgery of Strasbourg
     url: https://www.institut-vision.org/en/
+  - name: University of Strasbourg
+    url: https://unistra.fr
 education:
   courses:
     - course: Dr. rer. nat. in Machine Learning
