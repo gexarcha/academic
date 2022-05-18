@@ -1,45 +1,20 @@
-+++
-title = "Internship Position"
-subtitle = "Internship on Explainable ML in Health Science"
-
-# Add a summary to display on homepage (optional).
-summary = "Looking for an intern who is interested in working with signal processing methods and deep learning  in the area of Health Science."
-
-date = 2021-02-20T13:37:24+02:00
-draft = false
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Georgios Exarchakis"]
-
-# Is this a featured post? (true/false)
-featured = true
-
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["wavelets"]
-categories = []
-
-# Does the content use source code highlighting?
-highlight = true
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-# projects = ["internal-project"]
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
-  # Caption (optional)
-  # caption = "CAMMA team"
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Bottom"
-+++
+---
+date: 2022-05-18T15:00:49.559Z
+summary: Looking for an intern who is interested in working with signal
+  processing methods and deep learning  in the area of Health Science.
+draft: true
+featured: false
+authors:
+  - Georgios Exarchakis
+highlight: true
+title: Internship Position
+subtitle: Internship on Explainable ML in Health Science
+tags:
+  - wavelets
+categories: []
+image:
+  focal_point: Bottom
+---
 
 Download this post as a {{% staticref "files/positions/Intern at CAMMA.pdf" "newtab" %}} PDF file{{% /staticref %}}
 
