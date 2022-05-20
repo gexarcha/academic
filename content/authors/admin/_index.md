@@ -33,7 +33,7 @@ social:
       header: false
     icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/georgios-exarchakis-ai
+    link: https://www.linkedin.com/in/georgios-exarchakis-ai
 organizations:
   - name: Institute of Image-Guided Surgery of Strasbourg
     url: https://www.institut-vision.org/en/
