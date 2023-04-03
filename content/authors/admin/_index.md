@@ -1,6 +1,6 @@
 ---
 title: Georgios Exarchakis
-role: Research Scientist (Chargé de recherche)
+role: Lecturer
 bio: My research interests include artificial inteligence, machine learning, and
   theoretical neuroscience.
 interests:
