@@ -35,10 +35,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/georgios-exarchakis-ai
 organizations:
-  - name: Institute of Image-Guided Surgery of Strasbourg
-    url: https://www.institut-vision.org/en/
-  - name: ICube, University of Strasbourg
-    url: https://icube.unistra.fr/
+  - name: University of Bath
+    url: https://bath.ac.uk
 education:
   courses:
     - course: Dr. rer. nat. in Machine Learning
