@@ -93,7 +93,7 @@ phone = "+44 (0) 1225 383440"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "WESSEX HOUSE 9.07, University of Bath", city = "Bath", postcode = "BA2 7AY", country = "United Kingdom", country_code = "UK"}
+address = {street = "Wessex House 9.07, University of Bath", city = "Bath", postcode = "BA2 7AY", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -101,7 +101,7 @@ address = {street = "WESSEX HOUSE 9.07, University of Bath", city = "Bath", post
 coordinates = {latitude = "51.37981766299255", longitude = "-2.329987170097326"}
 
 # Directions for visitors to locate you.
-directions = "Wessex House - Ninth Floor (9.07)"
+directions = "Wessex House - Ninth Floor - Room 9.07"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
