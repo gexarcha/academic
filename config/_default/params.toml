@@ -88,19 +88,20 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "FirstName.LastName@ihu-strasbourg.eu"
+email = "FirstName.LastName@gmail.com"
 # phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1, place de l’Hôpital", city = "Strasbourg", postcode = "67000", country = "France", country_code = "FR"}
+address = {street = "WESSEX HOUSE 9.07, University of Bath", city = "Bath", postcode = "BA2 7AY", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "48.57528122535558", longitude = "7.742938093253462"}
+# 51.37981766299255, -2.329987170097326
+coordinates = {latitude = "51.37981766299255", longitude = "-2.329987170097326"}
 
 # Directions for visitors to locate you.
-directions = "IHU Strasbourg - Second Floor"
+directions = "Wessex House - Ninth Floor (9.07)"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
